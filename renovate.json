@@ -1,0 +1,5 @@
+{
+  "prConcurrentLimit": 0,
+  "prHourlyLimit": 0,
+  "rangeStrategy": "bump"
+}
